@@ -1,0 +1,7 @@
+; CG2.def : Declares the module parameters for the DLL.
+
+LIBRARY      "CG2"
+DESCRIPTION  'CG2 Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

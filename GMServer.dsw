@@ -1,0 +1,374 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "Ban"=.\Ban\Ban.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "BanOper"=.\BanOper\BanOper.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "BanServer"=.\BanServer\BanServer.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "CF"=.\CF\CF.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "CG2"=.\CG2\CG2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "GM"=.\GM\GM.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "GMTools"=.\GMTools\GMTools.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+    Begin Project Dependency
+    Project_Dep_Name Ban
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name BanOper
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name BanServer
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CG2
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name GameIOCP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Global
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name GM
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name GT
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name GTOP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name JW2
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Logic
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name NetIOCP
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name OperVector
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name PalLog
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SDO
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SocketData
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SqlHelper
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name WA
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name CF
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name Pal
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name PalSend
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name XDJG
+    End Project Dependency
+    Begin Project Dependency
+    Project_Dep_Name SendSCBroad
+    End Project Dependency
+}}}
+
+###############################################################################
+
+Project: "GT"=.\GT\GT.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "GTOP"=.\GTOP\GTOP.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "GameIOCP"=.\GameIOCP\GameIOCP.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Global"=.\Global\Global.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "JW2"=.\JW2\JW2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Logic"=.\Logic\Logic.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "NetIOCP"=.\NetIOCP\NetIOCP.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "OperVector"=.\OperVector\OperVector.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "Pal"=.\Pal\Pal.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PalLog"=.\PalLog\PalLog.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "PalSend"=.\PalSend\PalSend.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SDO"=.\SDO\SDO.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SendSCBroad"=.\SendSCBroad\SendSCBroad.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SocketData"=.\SocketData\SocketData.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "SqlHelper"=.\SqlHelper\SqlHelper.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "WA"=.\WA\WA.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "XDJG"=.\XDJG\XDJG.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

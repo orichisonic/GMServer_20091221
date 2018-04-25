@@ -1,0 +1,4 @@
+LIBRARY	AU2_Dll
+EXPORTS  
+	SendBulletin @2
+	BanishPlayer @3

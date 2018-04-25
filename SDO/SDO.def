@@ -1,0 +1,7 @@
+; SDO.def : Declares the module parameters for the DLL.
+
+LIBRARY      "SDO"
+DESCRIPTION  'SDO Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

@@ -1,0 +1,7 @@
+; GT.def : Declares the module parameters for the DLL.
+
+LIBRARY      "GT"
+DESCRIPTION  'GT Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

@@ -1,0 +1,4 @@
+LIBRARY	md5
+EXPORTS  
+	MD5_EnCode @2
+	MD5_Password @3

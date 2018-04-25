@@ -1,0 +1,3 @@
+LIBRARY	PalSend
+EXPORTS  
+	PalSend @2

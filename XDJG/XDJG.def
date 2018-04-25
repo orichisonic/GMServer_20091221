@@ -1,0 +1,7 @@
+; XDJG.def : Declares the module parameters for the DLL.
+
+LIBRARY      "XDJG"
+DESCRIPTION  'XDJG Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

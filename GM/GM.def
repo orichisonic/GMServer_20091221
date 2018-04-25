@@ -1,0 +1,7 @@
+; GM.def : Declares the module parameters for the DLL.
+
+LIBRARY      "GM"
+DESCRIPTION  'GM Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here
